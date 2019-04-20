@@ -1,7 +1,8 @@
 # IDEALEM
-This is a data compression method [IDEALEM](https://sdm.lbl.gov/asim/docs/idealem-161114.pdf). 
+This is a data compression method [IDEALEM](https://sdm.lbl.gov/asim/docs/idealem-161114.pdf). IDEALEM is using loseless and lossy compression method, and it 
 
 ## Requirements
+
 
 
 ## Contributing
