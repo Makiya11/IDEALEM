@@ -1,5 +1,5 @@
 # IDEALEM
-This is a data compression method [IDEALEM](https://sdm.lbl.gov/asim/docs/idealem-161114.pdf). IDEALEM is using loseless and lossy compression method, and it compress binary files.
+This is a data compression method IDEALEM. IDEALEM stands for Implementation of Dynamic Extensible Adaptive Locally Exchangeable Measures.
 
 A6BUS1C1MAG.csv.bin is a test binary file.
 A6BUS1C1MAG.csv.bin.idealem is the after compressed file.
