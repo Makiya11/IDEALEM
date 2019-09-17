@@ -1,13 +1,7 @@
 # IDEALEM
-This is a data compression method IDEALEM. IDEALEM stands for Implementation of Dynamic Extensible Adaptive Locally Exchangeable Measures.
+This is an implementation of the data compression method IDEALEM. IDEALEM stands for Implementation of Dynamic Extensible Adaptive Locally Exchangeable Measures.
 
-A6BUS1C1MAG.csv.bin is a test binary file.
-A6BUS1C1MAG.csv.bin.idealem is the after compressed file.
+This data compression is a combination of lossy and lossless compression. It utilizes the data reduction and pattern searching algorithm for streaming data based on Locally Exchangeable Measures.
 
+This method allow to compress 1GB binary file by a factor of 250
 
-
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
